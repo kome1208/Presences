@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"id": "783305816702844990",
+		"name": "kome1"
+	},
+	"service": "iOS-Repo-Updates",
+	"description": {
+		"en": "Browse iOS jailbreak repositories."
+	},
+	"url": "www.ios-repo-updates.com",
+	"version": "1.0.0",
+	"logo": "https://i.imgur.com/emAYnQy.png",
+	"thumbnail": "https://i.imgur.com/uUp1Xip.jpg",
+	"color": "#9f6649",
+	"category": "other",
+	"tags": [
+		"jailbreak",
+		"tweak",
+		"repository"
+	]
+}
